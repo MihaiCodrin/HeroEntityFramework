@@ -1,0 +1,15 @@
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EfCore.Repo.deps.json
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EfCore.Repo.dll
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EfCore.Repo.pdb
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EFCore.Dominio.dll
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EFCore.Dominio.pdb
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.csproj.AssemblyReference.cache
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.AssemblyInfoInputs.cache
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.AssemblyInfo.cs
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.csproj.CoreCompileInputs.cache
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.csproj.CopyComplete
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.dll
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.pdb
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EfCore.Repo.runtimeconfig.json
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\bin\Debug\netcoreapp2.1\EfCore.Repo.runtimeconfig.dev.json
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EfCore.Repo\obj\Debug\netcoreapp2.1\EfCore.Repo.genruntimeconfig.cache

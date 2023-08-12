@@ -1,0 +1,8 @@
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netcoreapp2.1\EFCore.Dominio.deps.json
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netcoreapp2.1\EFCore.Dominio.dll
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\bin\Debug\netcoreapp2.1\EFCore.Dominio.pdb
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netcoreapp2.1\EFCore.Dominio.AssemblyInfoInputs.cache
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netcoreapp2.1\EFCore.Dominio.AssemblyInfo.cs
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netcoreapp2.1\EFCore.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netcoreapp2.1\EFCore.Dominio.dll
+C:\Users\joao.carmo\Desktop\EFCore.WebAPI3\EFCore.WebAPI\EFCore.Dominio\obj\Debug\netcoreapp2.1\EFCore.Dominio.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjSmn7DfE3ubCgNLYvLPIUsL2IiFzcX6MrZrzfHda15qqMdA6QPRL2AC6wXAxUO85YZN1DXQ9zdIc99prQXDog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.carmo\\Desktop\\EFCore.WebAPI3\\EFCore.WebAPI\\EFCore.Dominio\\EFCore.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\joao.carmo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
